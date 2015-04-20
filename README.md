@@ -29,12 +29,12 @@ Dateien online stellen
 
 Wiki & GitHub
 =============
--[Github Wiki help](https://help.github.com/articles/about-github-wikis/)
--[https://education.github.com/](https://education.github.com/)
--[Beispiel Präsentationen mit HTML5](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
+- [Github Wiki help](https://help.github.com/articles/about-github-wikis/)
+- [https://education.github.com/](https://education.github.com/)
+- [Beispiel Präsentationen mit HTML5](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
 
 GitHub Pages
 ============
--[Eigene Webseite](https://pages.github.com/)
--[Beispiel interaktive Webseite](http://mgje.github.io/draw/)
--[Beispiel interaktive Webseite Quellen](https://github.com/mgje/draw)
+- [Eigene Webseite](https://pages.github.com/)
+- [Beispiel interaktive Webseite](http://mgje.github.io/draw/)
+- [Beispiel interaktive Webseite Quellen](https://github.com/mgje/draw)
