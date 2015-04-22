@@ -42,7 +42,7 @@ GitHub Pages
 Programme
 =========
 
-```
+```python
 from gpanel import *
 
 KEY_LEFT = 37
