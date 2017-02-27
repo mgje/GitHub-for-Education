@@ -6,8 +6,17 @@ Informationen und Materialien im Internet veröffentlichen
 * Wiki
 * Webseite
 
+Einrichten / Anfangen
+=====================
 
-Textdatei
+1. GitHub account erstellen https://github.com (https://help.github.com/articles/signing-up-for-a-new-github-account/)
+2. Neues Repository 
+3. Readme.txt schreiben
+4. GH Pages https://help.github.com/enterprise/2.8/user/articles/creating-pages-with-the-automatic-generator/
+
+
+
+Text
 =========
 - MarkDown
 - Focus on Text
