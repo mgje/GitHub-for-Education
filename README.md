@@ -44,12 +44,45 @@ Wiki & GitHub
 
 GitHub Pages
 ============
+
 - [Eigene Webseite](https://pages.github.com/)
 - [Beispiel interaktive Webseite](http://mgje.github.io/draw/)
 - [Beispiel interaktive Webseite Quellen](https://github.com/mgje/draw)
 
-Programme
-=========
+Texteditoren (Werkzeuge)
+========================
+
+- https://atom.io/
+- https://ia.net/writer/
+
+Baukasten für Webseiten
+=======================
+
+- http://de.webnode.com/ 
+- http://de.wix.com/ 
+- http://www.weebly.com/ 
+- http://de.jimdo.com/ 
+- https://www.yola.com/de
+
+Webseiten Tutorials
+===================
+
+- https://wiki.selfhtml.org/
+- https://developer.mozilla.org/de/docs/Web
+- https://www.w3.org./TR/html5/
+- http://www.w3.org/History.html
+
+Speicherorte / Webspace
+=======================
+
+- http://www.square7.ch/
+- https://www.metanet.ch/
+- https://github.com
+- https://ch.godaddy.com/
+
+
+Syntax highlighting
+===================
 
 ```python
 from gpanel import *
