@@ -54,6 +54,7 @@ Texteditoren (Werkzeuge)
 
 - https://atom.io/
 - https://ia.net/writer/
+- https://stackedit.io/editor# 
 
 Baukasten für Webseiten
 =======================
