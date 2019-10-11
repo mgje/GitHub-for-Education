@@ -23,7 +23,7 @@ Text
 
 ![fokus](images/md.png)
 
-- Linksammlungen
+- Linksammlung
   - [MarkDown Basics](https://help.github.com/articles/markdown-basics/)
   - [GitHub MarkDown](https://help.github.com/articles/github-flavored-markdown/)
   - [Writing on Github](https://help.github.com/articles/writing-on-github/)
