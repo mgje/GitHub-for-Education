@@ -56,6 +56,13 @@ GitHub einrichten
 1. Ein Github Repository erstellen
 2. In den Einstellungen Github Pages aktivieren
 
+![einstellungen](images/settings.png)
+
+![einstellungen](images/github_einschalten.png)
+
+![einstellungen](images/html_in_docs.png)
+
+![einstellungen](images/upload_files.png)
 
 Texteditoren (Werkzeuge)
 ========================
