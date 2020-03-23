@@ -49,6 +49,14 @@ GitHub Pages
 - [Beispiel interaktive Webseite](http://mgje.github.io/draw/)
 - [Beispiel interaktive Webseite Quellen](https://github.com/mgje/draw)
 
+
+GitHub einrichten
+=================
+
+1. Ein Github Repository erstellen
+2. In den Einstellungen Github Pages aktivieren
+
+
 Texteditoren (Werkzeuge)
 ========================
 
