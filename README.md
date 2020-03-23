@@ -57,19 +57,19 @@ GitHub einrichten
 1. Einen Ordner mit dem Namen docs erzeugen
 1. In den Einstellungen Github Pages aktivieren
 
-** docs Verzeichnis einrichten. Verzeichnis für die Webseite **
+**docs Verzeichnis einrichten. Verzeichnis für die Webseite**
 ![einstellungen](images/html_in_docs.png)
 
-** Der Link zu Settings ist oben rechts **
+**Der Link zu Settings ist oben rechts **
 ![einstellungen](images/settings.png)
 
 ** gh-pages einstellen **
 ![einstellungen](images/github_einschalten.png)
 
-** Mit Drag und Drop können mehrere Dateien hoch geladen werden **
+**Mit Drag und Drop können mehrere Dateien hoch geladen werden **
 ![einstellungen](images/upload_files.png)
 
-** URL zur Seite ist username.github.io/repositoryname **
+**URL zur Seite ist username.github.io/repositoryname **
 ![einstellungen](images/url_erste_webseite.png)
 
 
