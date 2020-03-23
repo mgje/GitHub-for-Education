@@ -68,6 +68,10 @@ GitHub einrichten
 ** Mit Drag und Drop können mehrere Dateien hoch geladen werden **
 ![einstellungen](images/upload_files.png)
 
+** URL zur Seite ist username.github.io/repositoryname **
+![einstellungen](images/url_erste_webseite.png)
+
+
 Texteditoren (Werkzeuge)
 ========================
 
