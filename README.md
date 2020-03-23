@@ -54,7 +54,8 @@ GitHub einrichten
 =================
 
 1. Ein Github Repository erstellen
-2. In den Einstellungen Github Pages aktivieren
+1. Einen Ordner mit dem Namen docs erzeugen
+1. In den Einstellungen Github Pages aktivieren
 
 ** docs Verzeichnis einrichten. Verzeichnis für die Webseite **
 ![einstellungen](images/html_in_docs.png)
